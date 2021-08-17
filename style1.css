@@ -1,0 +1,72 @@
+table.hospital{
+    position: absolute;
+    bottom: 275px;
+    right: 435px;
+}
+table.medicine{
+    left: 185px;
+    position: relative;
+}
+table.info {
+    position: absolute;
+    bottom: 150px;
+    border: 1px solid black;
+    width: 50%;
+}
+.header {
+    text-align: center;
+    font-size: 15px;
+    background-color: tomato;
+    } 
+input[type="submit"] {
+    padding: 9px;
+    width: 10em;
+    height:3em;
+    }
+.focus{
+    position: sticky;
+    bottom: 150px;
+    right: -100px;
+    }
+.doctor{
+    position: sticky;
+    bottom: 190px;
+    left: 235px;
+    }
+    
+.Patient{
+    position: sticky;
+    bottom: 229px;
+    left: 370px;
+}
+.appoint{
+    position: sticky;
+    bottom: 200px;
+    left: 235px; 
+}
+.Print{
+    position: sticky;
+    bottom: 229px;
+    left: 370px;
+}
+
+.clear{
+    position: sticky;
+    bottom: 170px;
+    left: 505px;  
+}
+div.nested{
+    top: 150px;
+    position:absolute;
+}
+h1{
+    color: bisque;
+}
+h2{
+    color: azure;
+}
+
+th{
+    font-size: 12px;
+    
+}
